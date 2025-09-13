@@ -1,4 +1,4 @@
-# LLVM-Opt
+# Static Range and Points-to Analyzer (LLVM based)
 
 This repository contains two out-of-tree LLVM **analysis/optimisation passes** built as plugins using the new PassManager:
 
